@@ -1,18 +1,16 @@
-Section D. Developing Digital Projects
+### Developing Digital Projects
 
-Through these two weeks students will create their final DH projects.
+This is a 2-week period in which students will work on their final DH projects. 
 
-Students may pick any humanities topic of interest, identify a dataset that they then process using any of the DH tools we reviewed in class (or tools they have found on their own), and present the whole package online. To host their projects students create a website on a free platform (such as wix.com). As ever, students must be sure to include a section for Works Cited / Bibliography!
+In this section you will find all the materials that are used by the upper and lower-level classes to guide studetns through their projects. These materials include:
+- project prompts
+- project proposal documents
+- project reflective essay prompts
+- project peer review documents
+- project grading rubrics
 
-Week 14
-Project Work I: Project Initiation
-Project Work II: Planning and Design
-
-Week 15
-Project Work III: Project Execution
-Project Work IV: Project Review and Editing
-
-Submission of Final DH Project
+### Units
+- [Project Guides and Review](https://github.com/marist-asc/dhcourse/tree/master/developing_digital_projects/week14-15project_guide_and_review)
 
 
 
