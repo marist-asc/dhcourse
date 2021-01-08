@@ -1,1 +1,3 @@
-Week 13 - Networks
+### Week 13 - Networks
+
+In this week, students learn basic concepts about networks as they read about how the Humanities have adapted this form of analyasis into new research research in the field. The students look at various Humanities network projects to better grasp this developing research method, then get hands on experience using [Kumu](https://kumu.io/) to made a prototype network graph of top-rated 2020 TV shows.

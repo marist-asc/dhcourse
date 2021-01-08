@@ -1,0 +1,3 @@
+### Week 12 - Text Analysis
+
+In this week, students start by doing basic text analysis, putting a text they have close read into Voyant Tools to explore "reading" the text a diffrernt way. Then students learn basic concepts of topic modeling to explore text analysis beyond just counting words. They look at David Mimno's [In-Browser Topic Modeling tool](https://mimno.infosci.cornell.edu/jsLDA/) to compare its analysis of the State of the Union Addresses to how [R. Luke DuBois](https://www.ted.com/talks/r_luke_dubois_insightful_human_portraits_made_from_data?referrer=playlist-what_your_data_reveals_about_y#t-291168) visualizes them in his art as a means to grasp what topic models can do. Finally, the students discussion the validity of these methods for the Humanities.

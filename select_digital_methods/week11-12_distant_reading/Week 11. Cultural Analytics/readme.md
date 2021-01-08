@@ -1,0 +1,3 @@
+### Week 11 - Cultural Analytics
+
+In this week, students read blogs and listen to podcasts to learn about how humanists are using massive datasets to reassert accepted cultural claims as well as make new ones by finding trends that could not be seen before with the small amount of information used before. The students get practice with searching for trends on a large dataset with Google's Ngram Viewer, but not before reading and discussing the difficulties and dangers of this kind of analysis.

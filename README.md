@@ -1,8 +1,9 @@
 ## Marist Archives and Special Collections Digital Humanities Course
 
-This repository contains materials from online and on-ground digital humanities courses taught at [Marist College](https://www.marist.edu/). This is a no-coding, undergraduate DH course, optimized for small liberal arts colleges with limited resources to support digital humanities.
+Materials collected to create a 15-week, no-coding, undergraduate digital humanities (DH) course at [Marist College](https://www.marist.edu/). This site was designed to provide instructors with all the content needed to teach an introduction to the dynamic and interdisciplinary field of DH that focuses on developing skills and a critical approach to digital research. By putting materials on-line and making every effort to use free and/or on-line resources in the course, we hope to encourage use by instructors new to the field or those at small, liberal arts colleges.  If you do not need a fully developed DH class, you may find it more productive to use this site as a repository of DH materials from which you can download whole modules or units or specific materials, like tutorials and [syllabi](https://github.com/marist-asc/dhcourse/tree/master/resources/syllabi).
 
-The course has been updated and tweaked over the past few years, as well as taught in various formats to different levels of undergraduates. Materials from those courses have been collected and organized into a 15-week structure of lessons and units that include readings, slides, activities, and tutorials. We've created a syllabus built upon this 15-week sturcture, but we have also included the [syllabi](https://github.com/marist-asc/dhcourse/tree/master/resources/syllabi) from the various DH courses at Marist as examples of how parts of these materials can be used to meet the needs and requirements of different classes. These materials are presented here so other instructors can pick and choose materials that work best for their classes.
+This project was made possible with funding from a [National Endowment for the Humanities](https://www.neh.gov/) CARES Act GRANT.
+
 
 The course is organized into 4 units over the 15 weeks:
 
@@ -27,8 +28,6 @@ The course is organized into 4 units over the 15 weeks:
 - [Project Guides and Review](https://github.com/marist-asc/dhcourse/tree/master/developing_digital_projects/week14-15project_guide_and_review)
 
 The repository also presents all the major components of the course and other topics that have been taught in the various Marist DH courses in the [Resources](https://github.com/marist-asc/dhcourse/blob/master/resources) section. In that section one can find: [activities by topic](https://github.com/marist-asc/dhcourse/blob/master/resources/activities); [assignments by course](https://github.com/marist-asc/dhcourse/tree/master/resources/assignments); [additional topics](https://github.com/marist-asc/dhcourse/tree/master/resources/additional_topics) not in the 15-week structure; [readings by week](https://github.com/marist-asc/dhcourse/blob/master/resources/readings_by_week.pdf) for the 15-week course; [syllabi](https://github.com/marist-asc/dhcourse/tree/master/resources/syllabi) for each course taught at Marist and the 15-week structure presented here; and [tutorials by topic](https://github.com/marist-asc/dhcourse/tree/master/resources/tutorials).
-
-This project was supported by the generous help of the [National Endowment for the Humanities](https://www.neh.gov/) CARES Act program.
 
 
 ### License
