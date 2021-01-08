@@ -1,4 +1,4 @@
-### Stages of a DH Projects
+### Stages of Digital Project
 
 In this week, students learn about the 3 stages of a digital humanities project: collection, analysis, and publication. They will develop skills for breaking DH projects into parts and asking questions to effectively navigate through each stage.
 
