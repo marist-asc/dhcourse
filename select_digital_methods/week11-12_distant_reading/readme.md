@@ -1,3 +1,3 @@
-Week 11-12 - Distant Reading
+### Week 11-12 - Distant Reading
 
 This is a 2-week lesson meant to introduce student to the concept of "distant reading" and how it develops out of the Humanities practice of "close reading". In the first week of the lesson, students read about the Google Book project and play around with the [Ngram Viewer](https://books.google.com/ngrams) tool as they learn about Cultural Analytics. Week 2 gets students thinking about how computers read texts and doing exploratory text analysis with [Voyant Tools](https://voyant-tools.org/).
