@@ -1,3 +1,3 @@
 ### Week 4 - Finding Data
 
-In this week, students will learn where from and how to collect information for their digital humanities projects. First the students will read about what constitutes "Humanities Data" and the complexities of creating such data. Then students will be exposed to ways of collecting information with an emphasis of learning to gather data from the web and social media.
+This week, students will learn places to find information suitable for a digital humanitie project and how to collect it. First the students will read about what constitutes "Humanities Data" and the complexities of creating such data. Then students will be exposed to ways of collecting information with an emphasis on learning to gather data from the web and social media.

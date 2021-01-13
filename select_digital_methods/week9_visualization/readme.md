@@ -1,3 +1,3 @@
 ### Week 9 - Visualization
 
-In this week, the students will be exposed to how  digital humanists are exposing visualization as a rhetorical act instead of the scientic perspective that sees it as a neutral representation of natural phenomena. Students will learn about concepts like "capta" and work through various activities like thinking about how Google Maps makes users "see" the world in a certain way.
+This week, students explore how digital humanists are exposing visualization as a rhetorical act instead of the scientific perspective that sees it as a neutral representation of natural phenomena. Students will learn about concepts, like "capta", and work through various activities, such as thinking about how Google Maps forces users to "see" the world in a certain way.

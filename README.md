@@ -1,4 +1,4 @@
-## Marist Archives and Special Collections Digital Humanities Course
+## Marist College Undergraduate Digital Humnanities Course
 
 Materials collected to create a 15-week, no-coding, undergraduate digital humanities (DH) course at [Marist College](https://www.marist.edu/). This site was designed to provide instructors with all the content needed to teach an introduction to the dynamic and interdisciplinary field of DH that focuses on developing skills and a critical approach to digital research. By putting materials on-line and making every effort to use free and/or on-line resources in the course, we hope to encourage use by instructors new to the field or those at small, liberal arts colleges.  If you do not need a fully developed DH class, you may find it more productive to use this site as a repository of DH materials from which you can download whole modules or units or specific materials, like tutorials and [syllabi](https://github.com/marist-asc/dhcourse/tree/master/resources/syllabi).
 
