@@ -1,4 +1,4 @@
-### Assignment Schedule
+### Assignments Breakdown
 
 In the upper-level assignments students are asked to produce a collaborative digital project throughout the semester. Students are given the final project introduction and prompt on day one of the class. This final project process is split into two proposal stages. By the course midway point, students submit a group proposal that receives student peer review and instructor feedback. The second proposal stage then starts, which includes a revised project proposal and peer review, a project assessment, and a project progress report all completed before groups have the final 3 weeks to work on their final projects and critcal essay. The goal of this process is to have the students working iteratively on the project design and building and getting as much peer and instructor feedback as possible along the way.
 

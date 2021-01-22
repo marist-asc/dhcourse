@@ -1,6 +1,6 @@
-### Assignment Schedule
+### Assignments Breakdown
 
-In the lower-level assignments students are asked to produce several essays throughout the semester that get them thinking critically about digital humanities before they complete a smaller, individual dh project for the final assignment. The course also includes a take-home exam.
+In the lower-level assignments students are asked to produce several essays throughout the semester that get them thinking critically about digital humanities before they complete a smaller, individual dh project for the final assignment. The final project requires that the students use [Wix](https://www.wix.com/) to simplify the number of choices the students have to make for the assignment. The course also includes a take-home exam.
 
 ### Schedule
 
