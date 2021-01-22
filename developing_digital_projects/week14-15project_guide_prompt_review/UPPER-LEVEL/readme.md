@@ -12,7 +12,7 @@ Students select their project groups
 
 -By Week 7
 Group proposal due
-Student [peer review](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/DHProjectPeerReview.pdf)compeleted
+Student [peer review](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/DHProjectPeerReview.pdf) completed
 
 -By Week 8
 [Proposal Self and Group Assessment](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/ProposalSelfGroupAssessment.pdf) completed
