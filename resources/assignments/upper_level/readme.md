@@ -7,27 +7,27 @@ In the upper-level assignments, students are asked to produce a collaborative di
 * Day 1
 -[Intro DH Final Project](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/DH_finalproject_intro.pdf) and [DH Final Project](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/DHFinalProjectPrompt.pdf) introducted
 * By week 4 
--Students select their project groups
--[DH Proposal Template](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/DHProposalTemplate.pdf) and [Rubric](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/DH%20ProposalRubric.pdf) are introduced
+	- Students select their project groups
+	- [DH Proposal Template](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/DHProposalTemplate.pdf) and [Rubric](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/DH%20ProposalRubric.pdf) are introduced
 
 * By Week 7
--Group proposal due
--Student [peer review](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/DHProjectPeerReview.pdf) completed
+	- Group proposal due
+	- Student [peer review](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/DHProjectPeerReview.pdf) completed
 
 * By Week 8
--[Proposal Self and Group Assessment](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/ProposalSelfGroupAssessment.pdf) completed
+	- [Proposal Self and Group Assessment](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/ProposalSelfGroupAssessment.pdf) completed
 
 * By Week 10
--Revised group proposal due
--Revised proposal [peer review](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/RevisedDHProjectProposalPeerReview.pdf) completed
+	- Revised group proposal due
+	- Revised proposal [peer review](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/RevisedDHProjectProposalPeerReview.pdf) completed
 
 * By Week 12
--[Project progress report](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/ProgressReportPrompt.pdf) due
+	- [Project progress report](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/ProgressReportPrompt.pdf) due
 
 * By Week 13
--Draft of Final Project Critical Essay due
--Final project [essay peer review](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/DHEssayPeerReview.pdf) completed
+	- Draft of Final Project Critical Essay due
+	- Final project [essay peer review](https://github.com/marist-asc/dhcourse/blob/master/developing_digital_projects/week14-15project_guide_and_review/upper_level/DHEssayPeerReview.pdf) completed
 
 * Week 15
--Final project due
--Final project essay due
+	- Final project due
+	- Final project essay due
