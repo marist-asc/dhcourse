@@ -8,5 +8,5 @@ The repository also presents all the major components of the course and other to
 
 ### Funded By
 
-[![NEH Seal](images/neh_sealblck200.jpg)](https://www.neh.gov/)
+[![NEH Seal](https://github.com/marist-asc/dhcourse/blob/master/images/neh_sealblck200.jpg)](https://www.neh.gov/)
 

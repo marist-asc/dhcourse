@@ -23,4 +23,4 @@ In this section the fun begins: we explore a select set of free tools through le
 
 ### Funded By
 
-[![NEH Seal](images/neh_sealblck200.jpg)](https://www.neh.gov/)
+[![NEH Seal](https://github.com/marist-asc/dhcourse/blob/master/images/neh_sealblck200.jpg)](https://www.neh.gov/)

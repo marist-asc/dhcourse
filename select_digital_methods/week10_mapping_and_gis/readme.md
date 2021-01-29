@@ -8,4 +8,4 @@ This week, students examine the difference between using maps to tell a story an
 
 ### Funded By
 
-[![NEH Seal](images/neh_sealblck200.jpg)](https://www.neh.gov/)
+[![NEH Seal](https://github.com/marist-asc/dhcourse/blob/master/images/neh_sealblck200.jpg)](https://www.neh.gov/)

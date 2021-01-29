@@ -14,4 +14,4 @@ This section includes the upper and lower-level materials used to guide students
 
 ### Funded By
 
-[![NEH Seal](images/neh_sealblck200.jpg)](https://www.neh.gov/)
+[![NEH Seal](https://github.com/marist-asc/dhcourse/blob/master/images/neh_sealblck200.jpg)](https://www.neh.gov/)

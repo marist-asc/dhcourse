@@ -8,4 +8,4 @@ This week, students will read about "design thinking" as they are introduced to 
 
 ### Funded By
 
-[![NEH Seal](images/neh_sealblck200.jpg)](https://www.neh.gov/)
+[![NEH Seal](https://github.com/marist-asc/dhcourse/blob/master/images/neh_sealblck200.jpg)](https://www.neh.gov/)
