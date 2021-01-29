@@ -16,3 +16,11 @@ In this section the fun begins: we explore a select set of free tools through le
 - [Mapping & GIS](https://github.com/marist-asc/dhcourse/blob/master/select_digital_methods/week10_mapping_and_gis)
 - [Distant Reading](https://github.com/marist-asc/dhcourse/blob/master/select_digital_methods/week11-12_distant_reading)
 - [Networks](https://github.com/marist-asc/dhcourse/blob/master/select_digital_methods/week13_networks)
+
+### License
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+
+### Funded By
+
+[![NEH Seal](images/neh_sealblck200.jpg)](https://www.neh.gov/)

@@ -8,3 +8,10 @@ This is a 5-week lesson that introduces students to the steps of doing a digital
 - [Project Design Process](https://github.com/marist-asc/dhcourse/blob/master/digital_project_design/week6_project_design_process)
 - [Building a Project with Omeka](https://github.com/marist-asc/dhcourse/blob/master/digital_project_design/week7_building_project_with_omeka)
 
+### License
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+
+### Funded By
+
+[![NEH Seal](images/neh_sealblck200.jpg)](https://www.neh.gov/)

@@ -5,3 +5,11 @@ This is a 2-week lesson in which students are introduced to the broad field of h
 ### Units
 - [What are the Humanites and Digital Humanities?](https://github.com/marist-asc/dhcourse/blob/master/introduction_to_digital_humanities/week1_humanities_and_dh)
 - [History of Digital Humanities](https://github.com/marist-asc/dhcourse/blob/master/introduction_to_digital_humanities/week2_history_and_critique_of_dh)
+
+### License
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+
+### Funded By
+
+[![NEH Seal](images/neh_sealblck200.jpg)](https://www.neh.gov/)
