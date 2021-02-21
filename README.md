@@ -2,6 +2,8 @@
 
 Materials collected to create a 15-week, no-coding, undergraduate digital humanities (DH) course at [Marist College](https://www.marist.edu/). This site was designed to provide instructors with all the content needed to teach an introduction to the dynamic and interdisciplinary field of DH that focuses on developing skills in digital research and project planning. By putting materials on-line and making every effort to use free and/or on-line resources in the course, we hope to encourage use by instructors new to the field or those at small, liberal arts colleges.  If you do not need a fully developed DH class, you may find it more productive to use this site as a repository of DH materials from which you can download whole modules or units or select materials, like tutorials and [syllabi](https://github.com/marist-asc/dhcourse/tree/master/resources/syllabi).
 
+These materials can also found in a [Google Drive folder](https://drive.google.com/drive/u/1/folders/1C-rhEIbGhSUGaiUQ0b-bwwbdoXul0a0F).
+
 This project was made possible with funding from a [National Endowment for the Humanities](https://www.neh.gov/) CARES Act GRANT.
 
 
